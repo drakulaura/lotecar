@@ -3,15 +3,15 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(216, 196, 216)
+    background-color: rgb(65, 158, 235)
 }
 
 h1{
     font-size:5em;
-    color:green;
-    font-family:Georgia, 'arial', serif;
+    color:rgb(78, 231, 78);
+    font-family:Georgia, 'Times New Roman', serif;
     letter-spacing: 2px;
-    text-shadow: rgb(194, 107, 107);
+    text-shadow: rgb(77, 98, 218);
     font-weight: bold;
     font-style: italic;
     margin-bottom: 5px;
@@ -20,7 +20,7 @@ h3{
     font-size: 3em;
     font-style: normal;
     font-variant: normal;
-    color: rgb(219, 118, 219)
+    color: rgb(74, 91, 240)
 }
 
 .selecao, .btnSortear, .sorteio, .acertos{
@@ -28,7 +28,7 @@ h3{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgb(216, 196, 216)
+    background-color: rgb(21, 98, 197)
 }
 
 .selecao> input{
@@ -43,7 +43,7 @@ h3{
 }
 
 footer{
-    background-color: rgb(216, 196, 216);
+    background-color: rgb(18, 201, 233);
     height: 100px;
     width: 100%;
     margin: 0;
