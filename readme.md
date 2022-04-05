@@ -13,7 +13,7 @@ que por fim é verificado quantos dos 6 números o usário acertou
 3.  [ ]  deixar responsivo
 
 ### disponibilizado em 
-[githubpage] (https://alineroa.github.io/loteca/)
+[githubpage] (https://drakulaura.github.io/lotecar/)
 
 ### prints da tela
 
